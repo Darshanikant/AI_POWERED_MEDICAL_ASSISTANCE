@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 # Load API Key
 load_dotenv()
-API_KEY = "AIzaSyCsvj3eLoEKTfoq4ifWRuBNoEHj1taXtaQ"
+API_KEY = "AIzaSyAWLull5zONsH_IZwQ8mvQq_mOdAO69UyU"
 GEMINI_API_KEY = os.getenv(API_KEY)
 
 # Configure Google Gemini API
